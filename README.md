@@ -1,4 +1,4 @@
-目前只支持linux arm64或linux amd64t系统。 c-test/test.c
+目前只支持linux arm64或linux amd64系统。 c-test/test.c
 
 文件说明：
 头文件和静态库：lib/
