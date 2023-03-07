@@ -4,8 +4,6 @@
 #include <stdbool.h>
 #include "../lib/libmqttcli_aarch64.h"
 
-// cd ../lib/ && ./build.sh && cd ../c-test/ && ./build.sh && ./test
-
 /* 首先定义一些回调函数 */
 
 // 用来接口sdk日志
